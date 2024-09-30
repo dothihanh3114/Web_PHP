@@ -1,0 +1,75 @@
+@charset 'utf8';
+.sp img{
+    width: 100%;
+}
+.g1{
+    text-decoration: line-through;
+}
+.g2{
+    color: red;
+}
+.sp i{
+   color: yellow;
+}
+
+.dmloai {
+	list-style-type: none;
+  }
+  .dmloai li a{
+	text-decoration: none;
+  }
+.a_chitiet{
+	text-decoration: none;
+}
+.span_ten{
+	font-weight: bold;
+	font-size: xx-large;
+}
+.span_mota{
+	text-align: justify;
+}
+.input_sl{
+	width: 40px;
+}
+/* .footer{
+	width: 100%;
+	text-align: center;
+	padding: 30px 0;
+}
+.footer h4{
+	margin-bottom: 25px;
+	margin-top: 20px;
+	font-weight: 600;
+}
+.icons .fa{
+	color: #f44336;
+	margin: 0 13px;
+	cursor: pointer;
+	padding: 18px 0;
+}
+<!-- ?>
+        <script>
+            alert("Bạn đã thêm mới thành công<?php echo $idhang ;?>")
+        </script>
+//<?php -->
+.fa-heart-o{
+	color: #f44336;
+} */
+
+.ql_ul{
+	list-style: none;
+
+}
+.ql_ul li{
+	height: 40px;
+	line-height: 30px;
+}
+.ql_ul a{
+	font-size: x-large;
+}
+.ql_ul li:hover{
+	background-color: cadetblue;
+}
+.ql_ul a:hover{
+	color: brown;
+}
